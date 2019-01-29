@@ -1,0 +1,11 @@
+# The Fiona Messages Configuration File.
+prefix: "&8[&6&lFiona&8] &7"
+alerts:
+  alertMessage: "%prefix%&e%playerName% &7failed &e%check% &cx%vl%"
+  alertHoverMessage: "&8&m----------------------------\n&6Player: &c%playerName%\n&6Data: &c%info%\n&6Ping: &c%ping%\n&6VL: &c%vl%\n&f&oCLICK TO TELEPORT\n&8&m----------------------------"
+  checkVioReset: "%prefix%&7All violation data for &e%check% &7has been cleared."
+commands:
+  invalidArguments: "%prefix% &cInvalid arguments. Do /fiona to see the proper syntax."
+  noPermission: "%prefix% &cYou do not have permission for this feature."
+  invalidCheck: "%prefix% &7&oIf you're trying to use a space for a detection, try using a '_' instead."
+  checkOptions: "&cOptions: %options%"

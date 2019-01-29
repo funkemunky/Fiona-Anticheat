@@ -1,0 +1,1304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="FionaNew:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/data/DataManager.java" line="19" />
+    <bookmark url="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/data/MovementParser.java" line="145" />
+    <bookmark url="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/data/PlayerData.java" line="33" />
+    <bookmark url="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/velocity/detections/TypeA.java" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9dafcf7-a11b-470b-99f8-974fed4d3f88" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2072312121">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="53" />
+          <entry key="project.open.time.0" value="25" />
+          <entry key="project.open.time.1" value="12" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="7" />
+          <entry key="project.open.time.7" value="6" />
+          <entry key="project.opened" value="57" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="11" />
+          <entry key="java" value="495" />
+          <entry key="yml" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="11" />
+          <entry key="JAVA" value="495" />
+          <entry key="YAML" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="12" />
+          <entry key="java" value="20215" />
+          <entry key="yml" value="37" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="20215" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="YAML" value="37" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/data/PlayerData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-306">
+              <caret line="9" column="69" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/PlayerTimer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+              <folding>
+                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#641#642#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/Fiona.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="368" column="30" selection-start-line="368" selection-start-column="30" selection-end-line="368" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/gui/GUIManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="164" column="5" selection-start-line="164" selection-start-column="5" selection-end-line="164" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/autoclicker/AutoClicker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/aimassist/AimPattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/velocity/detections/TypeA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/plugin.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/KillAura.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="24" column="61" selection-start-line="24" selection-start-column="61" selection-end-line="24" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/reach/Reach.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DOUBLE</find>
+      <find>fallDistance</find>
+      <find>realFalLDistance</find>
+      <find>reachAverages</find>
+      <find>0.41</find>
+      <find>Fastbow</find>
+      <find>ProjectileLaunchEvent</find>
+      <find>lastbow</find>
+      <find>data.currentTick++;</find>
+      <find>runTasks</find>
+      <find>currentTick++;</find>
+      <find>loginTime</find>
+      <find>currentTick</find>
+      <find>import cc.funkemunky.fiona.events.system.Event</find>
+      <find>@EventMethod</find>
+      <find>callEvent</find>
+      <find>EventManager.callEvent(event);</find>
+      <find>general</find>
+      <find>canDestroy</find>
+      <find>net.minecraft</find>
+      <find>Protocol</find>
+      <find>protocol =</find>
+      <find>gc</find>
+      <find>int</find>
+      <find>run(</find>
+      <find>while(</find>
+      <find>0.74</find>
+      <find>MiscUtils.Fiona.getInstance().getGuiManager().createItem</find>
+      <find>GUIItem</find>
+      <find>0.98</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>org.bukkit.event.Event</replace>
+      <replace>@EventHandler</replace>
+      <replace />
+      <replace>Bukkit.getPluginManager().callEvent(event);</replace>
+      <replace>long</replace>
+      <replace>MiscUtils.createItem</replace>
+      <replace>0.74</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/badpackets/detections/Sneak.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/jesus/detections/Even.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/jesus/Jesus.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/speed/detections/Limit.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/fastbow/detections/Speed.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/autoclicker/detections/FastClick.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/data/ReliabilitySystem.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/bukkit/PlayerConnectListeners.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/custom/PacketFunkeMoveEvent.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/custom/PacketInvClickEvent.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/custom/PacketRecieveEvent.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/custom/PacketSendEvent.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/custom/PacketAttackEvent.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/custom/PacketArmSwingEvent.java" />
+        <option value="$PROJECT_DIR$/resources/config.yml" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/ReflectionsUtil.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/world/block/detections/FastBreak.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/fly/detections/TypeA.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/data/DataManager.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/aimassist/detections/TypeE.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/Check.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/step/Step.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/data/MovementParser.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/speed/detections/TypeA.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeP.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/blockbox/boxes/BlockBox1_13_R1.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/badpackets/detections/TypeH.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/criticals/Criticals.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/world/scaffold/Scaffold.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/velocity/Velocity.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/velocity/detections/TypeB.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/speed/Speed.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/badpackets/BadPackets.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/events/bukkit/DataEvents.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/ViewArgument.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/blockbox/CollisionAssessment.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/invalidmotion/detections/TypeA.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/MathUtils.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/gui/impl/MainGUI.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/gui/GUI.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/gui/impl/ViolationGUI.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/gui/GUIManager.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/DevArgument.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/autoclicker/AutoClicker.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/aimassist/AimPattern.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/KillAura.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/reach/Reach.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/velocity/detections/TypeA.java" />
+        <option value="$PROJECT_DIR$/resources/plugin.yml" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/data/PlayerData.java" />
+        <option value="$PROJECT_DIR$/src/cc/funkemunky/fiona/Fiona.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="1680" />
+    <option name="height" value="934" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="args" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="logging" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="combat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="combat" type="462c0819:PsiDirectoryNode" />
+              <item name="aimassist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="combat" type="462c0819:PsiDirectoryNode" />
+              <item name="aimassist" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="combat" type="462c0819:PsiDirectoryNode" />
+              <item name="autoclicker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="combat" type="462c0819:PsiDirectoryNode" />
+              <item name="autoclicker" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="combat" type="462c0819:PsiDirectoryNode" />
+              <item name="criticals" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="combat" type="462c0819:PsiDirectoryNode" />
+              <item name="criticals" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="combat" type="462c0819:PsiDirectoryNode" />
+              <item name="fastbow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="combat" type="462c0819:PsiDirectoryNode" />
+              <item name="fastbow" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="combat" type="462c0819:PsiDirectoryNode" />
+              <item name="killaura" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="combat" type="462c0819:PsiDirectoryNode" />
+              <item name="killaura" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="combat" type="462c0819:PsiDirectoryNode" />
+              <item name="reach" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="combat" type="462c0819:PsiDirectoryNode" />
+              <item name="reach" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="movement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="movement" type="462c0819:PsiDirectoryNode" />
+              <item name="fly" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="movement" type="462c0819:PsiDirectoryNode" />
+              <item name="fly" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="movement" type="462c0819:PsiDirectoryNode" />
+              <item name="invalidmotion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="movement" type="462c0819:PsiDirectoryNode" />
+              <item name="invalidmotion" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="movement" type="462c0819:PsiDirectoryNode" />
+              <item name="jesus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="movement" type="462c0819:PsiDirectoryNode" />
+              <item name="nofall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="movement" type="462c0819:PsiDirectoryNode" />
+              <item name="nofall" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="movement" type="462c0819:PsiDirectoryNode" />
+              <item name="noslowdown" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="movement" type="462c0819:PsiDirectoryNode" />
+              <item name="speed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="movement" type="462c0819:PsiDirectoryNode" />
+              <item name="speed" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="movement" type="462c0819:PsiDirectoryNode" />
+              <item name="sprint" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="movement" type="462c0819:PsiDirectoryNode" />
+              <item name="sprint" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="movement" type="462c0819:PsiDirectoryNode" />
+              <item name="step" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="movement" type="462c0819:PsiDirectoryNode" />
+              <item name="step" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="badpackets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="badpackets" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="inventory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="regen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="selfhit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="velocity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="velocity" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="world" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="world" type="462c0819:PsiDirectoryNode" />
+              <item name="block" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="world" type="462c0819:PsiDirectoryNode" />
+              <item name="block" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="world" type="462c0819:PsiDirectoryNode" />
+              <item name="hand" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="world" type="462c0819:PsiDirectoryNode" />
+              <item name="hand" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="world" type="462c0819:PsiDirectoryNode" />
+              <item name="scaffold" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+              <item name="world" type="462c0819:PsiDirectoryNode" />
+              <item name="scaffold" type="462c0819:PsiDirectoryNode" />
+              <item name="detections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="events" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="events" type="462c0819:PsiDirectoryNode" />
+              <item name="bukkit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="events" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="blockbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FionaNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FionaNew" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fiona" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="fionanew" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="WrappedPacketPlay&#9;PSI&#9;JAVA://com.ngxdev.tinyprotocol.packet.out.WrappedPacketPlayOutWorldParticle&#10;PacketPlayInUseItem&#9;PSI&#9;JAVA://net.minecraft.server.v1_12_R1.PacketPlayInUseItem&#10;PacketPlayINUseItem&#9;FILE&#9;jar://C:/Users/suckm/Documents/GitHub/Fiona/FionaNew/dependencies/spigot-1.9-R0.1-SNAPSHOT.jar!/net/minecraft/server/v1_9_R1/PacketPlayInUseItem.class&#10;PacketPlayInBlockDig&#9;PSI&#9;JAVA://net.minecraft.server.v1_10_R1.PacketPlayInBlockDig&#10;PacketPlayInBlockPlace&#9;PSI&#9;JAVA://net.minecraft.server.v1_13_R2.PacketPlayInBlockPlace&#10;net.minecraft.PacketPlayInBlockPlace&#9;PSI&#9;JAVA://net.minecraft.server.v1_8_R3.PacketPlayInBlockPlace&#10;EnumDirection&#9;PSI&#9;JAVA://com.ngxdev.tinyprotocol.packet.types.EnumDirection&#10;AxisAlignedBB&#9;PSI&#9;JAVA://net.minecraft.server.v1_7_R4.AxisAlignedBB" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546620085698" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dependencies/spigot-1.8.8-R0.1-SNAPSHOT.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.171875" />
+    <property name="project.structure.side.proportion" value="0.22877358" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\suckm\Documents\GitHub\Fiona\FionaNew\src\cc\funkemunky\fiona\commands\fiona" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9dafcf7-a11b-470b-99f8-974fed4d3f88" name="Default Changelist" comment="" />
+      <created>1540384692456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540384692456</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3880597" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.37960956" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28997868" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cc/funkemunky/fiona/data/MovementParser.java</url>
+          <line>183</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/PlayerUtils.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/fly/detections/TypeI.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/reach/detections/TypeC.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/fly/Fly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/autoclicker/detections/TypeF.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/world/scaffold/detections/TypeD.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/speed/detections/TypeE.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/criticals/detections/TypeC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/badpackets/detections/TypeH.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/world/hand/Hand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/world/scaffold/Scaffold.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/aimassist/detections/TypeG.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/autoclicker/detections/TypeC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/velocity/Velocity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/velocity/detections/TypeB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/events/bukkit/DataEvents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="758">
+          <caret line="468" column="1" selection-start-line="468" selection-start-column="1" selection-end-line="468" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/autoclicker/detections/TypeG.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/detections/TypeL.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/reach/detections/TypeB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/speed/Speed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/step/Step.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/badpackets/detections/TypeI.java" />
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/badpackets/BadPackets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/LagArgument.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/CancellableArgument.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/VelocityArgument.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/ReloadArgument.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/LogArgument.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/DelayArgument.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/StatusArgument.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/MenuArgument.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/AlertsArgument.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/blockbox/CollisionAssessment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/invalidmotion/detections/TypeA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3604">
+          <caret line="232" column="70" selection-start-line="232" selection-start-column="70" selection-end-line="232" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/MathUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4845">
+          <caret line="285" column="52" selection-start-line="285" selection-start-column="52" selection-end-line="285" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/gui/GUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1904">
+          <caret line="139" column="47" selection-start-line="139" selection-start-column="47" selection-end-line="139" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/gui/impl/ViolationGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/movement/fly/detections/TypeA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/gui/impl/MainGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2193">
+          <caret line="142" column="172" selection-start-line="142" selection-start-column="172" selection-end-line="142" selection-end-column="172" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/ViewArgument.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/commands/fiona/args/DevArgument.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/gui/GUIManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="164" column="5" selection-start-line="164" selection-start-column="5" selection-end-line="164" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/reach/Reach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/killaura/KillAura.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="61" selection-start-line="24" selection-start-column="61" selection-end-line="24" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/autoclicker/AutoClicker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/combat/aimassist/AimPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/detections/player/velocity/detections/TypeA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/plugin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/data/PlayerData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="9" column="69" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/utils/PlayerTimer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+          <folding>
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cc/funkemunky/fiona/Fiona.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="368" column="30" selection-start-line="368" selection-start-column="30" selection-end-line="368" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>FionaNew:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FionaNew</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.22877358" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>spigot-1.8.8-R0.1-SNAPSHOT</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.22877358" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

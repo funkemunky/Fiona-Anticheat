@@ -1,0 +1,47 @@
+# ############################################################### #
+#                                                                 #
+#           Welcome to the Fiona Revamped Configuration           #
+#                        Enjoy your stay :)                       #
+#                                                                 #
+# ############################################################### #
+
+alerts:
+  # The delay between alerts sent to staff.
+  delay:
+    enabled: true
+    millis: 500
+  # The command sent once an alert is clicked.
+  clickCommand: "/teleport %sender% %cheater%"
+  # Toggle the notification sent when a check is reset after a certain period.
+  checkVioResetBroadcast: true
+# Period when logs are saved to the Fiona plugin folder.
+logging:
+  enabled: true
+  saveInterval: 5
+  timeUnit: "MINUTES"
+# Unfinished feature.
+gui:
+  # Options: RAINBOW, NONE.
+  animation: "RAINBOW"
+# The bypass permission configuration, set to false by default.
+gold:
+  key: ""
+  serverIP: "default"
+bypass:
+  enabled: false
+  permission: "fiona.bypass"
+database:
+  type: "YAML"
+  mongo:
+    name: "Fiona"
+    # This is the most "%%__USER__%%" part.
+    address: "localhost"
+    port: 27017
+# Sends a player's alerts to themselves only. Not recommended unless you run a test server.
+testmode: false
+# Commands sent to console when a player reaches a executable threshold of a check.
+# Variables: %player%, %check%, %nickname%
+executableCommands:
+- 'ban %player% Unfair Advantage: %nickname%'
+- 'fiona broadcast %prefix%&e%player% &7was removed from the server for cheating.'
+checks: []

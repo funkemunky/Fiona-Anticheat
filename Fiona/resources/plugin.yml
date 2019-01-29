@@ -1,0 +1,9 @@
+name: Fiona
+main: cc.funkemunky.fiona.Fiona
+description: The new standard.
+authors: [funkemunky, Elevated]
+version: 3.5.2
+commands:
+  fiona:
+    description: The Fiona main command.
+    aliases: [anticheat]
